@@ -28,7 +28,7 @@ Este projeto é um painel interativo desenvolvido em Python com Streamlit para a
    ```sh
    pip install streamlit pandas plotly
    ```
-4. Entre no diretório do repositório::
+4. Entre no diretório do repositório:
    ```sh
    cd Dashboard-com-Python
    ```
