@@ -22,7 +22,7 @@ Este projeto é um painel interativo desenvolvido em Python com Streamlit para a
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/sales-dashboard.git
+   git clone https://github.com/seuusuario/Dashboard-com-Python.git
    ```
 3. Instale as dependências:
    ```sh
